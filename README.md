@@ -6,7 +6,12 @@ Project is live on
 
 https://sidhudog.github.io/KeycodeGenerator/
 
+
+#Light Theme
+
 ![Light](Light.png)
+
+#Dark Theme
 
 ![Dark](Dark.png)
 
