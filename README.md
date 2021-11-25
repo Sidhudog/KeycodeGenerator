@@ -6,4 +6,4 @@ Project is live on
 
 https://sidhudog.github.io/KeycodeGenerator/
 
-![alt text](Light.jpg)
+![Light](Light.jpg)
