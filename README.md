@@ -6,4 +6,4 @@ Project is live on
 
 https://sidhudog.github.io/KeycodeGenerator/
 
-![alt text](https://github.com/[Sidhudog]/[KeycodeGenerator]/blob/[main]/Dark Theme.jpg?raw=true)
+![alt text](https://github.com/[Sidhudog]/[KeycodeGenerator]/blob/[main]/Dark.jpg?raw=true)
