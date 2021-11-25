@@ -6,4 +6,7 @@ Project is live on
 
 https://sidhudog.github.io/KeycodeGenerator/
 
-![Light](Light.jpg)
+![Light](Light.png)
+
+![Dark](Dark.png)
+
