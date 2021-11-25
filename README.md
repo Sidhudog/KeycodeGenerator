@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# KeycodeGenerator.github.io
-=======
 # KeycodeGenerator
 
 This is a Javascript  Keycode Generator with Light and Dark Themes
->>>>>>> master
+
+Project is live on 
+
+https://sidhudog.github.io/KeycodeGenerator/
